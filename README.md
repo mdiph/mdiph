@@ -10,15 +10,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdiph&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="mdiph's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=mdiph&theme=dark&hide_border=false" alt="mdiph's streak stats" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdiph&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="mdiph's top languages" />
 </p>
 
 ---
