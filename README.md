@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mdiph&icon=5&color=5" alt="visitor count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdiph&label=Profile%20Views&color=5865F2&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -38,6 +36,7 @@
 
 **Infra & DevOps**
 <p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
